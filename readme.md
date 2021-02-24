@@ -24,6 +24,12 @@ http://blog.markshead.com/1173/chef-solo-demo-video/
     ```
     
     This command runs Opscodes Omnibus installer.
+    
+    24-Feb-2021 : Shiva Kumar
+    
+    Now it works with the following link:
+    
+    sudo true && curl -L https://omnitruck.chef.io/install.sh | sudo bash
 
 * Run Chef:
 
