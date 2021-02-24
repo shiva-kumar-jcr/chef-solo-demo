@@ -13,6 +13,8 @@ http://blog.markshead.com/1173/chef-solo-demo-video/
 
     ```bash
     sudo git clone https://github.com/markshead/chef-solo-demo.git /var/chef
+    or
+    sudo git clone https://github.com/shiva-kumar-jcr/chef-solo-demo.git /var/chef
     ```
     
     This command will pull down the repository from GitHub and put it where chef can find it.
